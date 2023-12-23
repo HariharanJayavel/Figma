@@ -177,10 +177,10 @@ color: black;
 
 ## OUTPUT:
 ![Screenshot (17)](https://github.com/HariharanJayavel/Figma/assets/144870546/83515b03-3ea0-414e-85aa-3e5617c28bd6)
-![Screenshot (19)](https://github.com/HariharanJayavel/Figma/assets/144870546/100f242d-4f03-4c9c-85ec-dcf2019cfc58)
+
 ![Screenshot (18)](https://github.com/HariharanJayavel/Figma/assets/144870546/ed193797-d863-44a7-9b16-61eb80c7ebfe)
 
-
+![Screenshot (19)](https://github.com/HariharanJayavel/Figma/assets/144870546/100f242d-4f03-4c9c-85ec-dcf2019cfc58)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
